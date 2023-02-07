@@ -17,8 +17,8 @@ author = "Celson Simon Araujo Vieira"
 description = "Celson's personal website"
 keywords = "blog,developer,personal"
 info = ["SRE at Stone"]
-#avatarURL = "https://avatars.githubusercontent.com/celson"
-gravatar = "celson.simon@gmail.com"
+avatarURL = "https://avatars.githubusercontent.com/celson"
+#gravatar = "celson.simon@gmail.com"
 dateFormat = "January 2, 2006"
 since = 1980
 # Git Commit in Footer, uncomment the line below to enable it

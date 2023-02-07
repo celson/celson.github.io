@@ -16,7 +16,7 @@ author = "Celson Simon Araujo Vieira"
 #license = '<a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA-4.0</a>'
 description = "Celson's personal website"
 keywords = "blog,developer,personal"
-info = ["SRE at Stone"]
+info = ["SRE at Stone Co."]
 avatarURL = "https://avatars.githubusercontent.com/celson"
 #gravatar = "celson.simon@gmail.com"
 dateFormat = "January 2, 2006"

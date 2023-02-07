@@ -1,4 +1,4 @@
-baseURL = "http://celson.github.io"
+baseURL = "https://celson.github.io"
 title = "celson"
 theme = "hugo-coder"
 languageCode = "en"

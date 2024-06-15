@@ -42,10 +42,6 @@ customSCSS = []
 # Custom JS
 customJS = []
 
-# If you want to use Cloudflare Web Analytics(https://cloudflare.com) for analytics, add this section
-[params.cloudflare]
-token = "***REMOVED***"
-
 # If you want to implement a Content-Security-Policy, add this section
 [params.csp]
 childsrc = ["'self'"]

@@ -115,17 +115,17 @@ name = "About"
 weight = 1
 url = "about/"
 
-[languages.pt-br]
-languageName = ":brazil:"
-title = "Celson"
-
-[languages.pt-br.params]
-author = "Celson Simon Araujo Vieira"
-info = ["Platform Engineer at Stone Co."]
-description = "Site pessoal de Celson Simon"
-keywords = "blog,desenvolvedor,pessoal"
-
-[[languages.pt-br.menu.main]]
-name = "Sobre"
-weight = 1
-url = "pt-br/sobre/"
+#[languages.pt-br]
+#languageName = ":brazil:"
+#title = "Celson"
+#
+#[languages.pt-br.params]
+#author = "Celson Simon Araujo Vieira"
+#info = ["Platform Engineer at Stone Co."]
+#description = "Site pessoal de Celson Simon"
+#keywords = "blog,desenvolvedor,pessoal"
+#
+#[[languages.pt-br.menu.main]]
+#name = "Sobre"
+#weight = 1
+#url = "pt-br/sobre/"

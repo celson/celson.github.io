@@ -135,7 +135,7 @@ weight = 5
 url = "https://medium.com/@celson"
 
 [languages.en]
-languageName = ":uk:"
+languageName = ":us:"
 
 [[languages.en.menu.main]]
 name = "About"

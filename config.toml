@@ -128,4 +128,4 @@ keywords = "blog,desenvolvedor,pessoal"
 [[languages.pt-br.menu.main]]
 name = "Sobre"
 weight = 1
-url = "about/"
+url = "pt-br/sobre/"

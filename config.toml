@@ -3,6 +3,31 @@ title = "celson"
 theme = "hugo-coder"
 languageCode = "en"
 defaultContentLanguage = "en"
+
+[languages]
+[languages.en]
+languageCode = "en-us"
+languageName = "English"
+title = "celson"
+weight = 1
+
+[languages.en.params]
+author = "Celson Simon Araujo Vieira"
+description = "Celson's personal website"
+keywords = "blog,developer,personal"
+info = ["Platform Engineer at Stone Co."]
+
+[languages.pt]
+languageCode = "pt-br"
+languageName = "Português"
+title = "celson"
+weight = 2
+
+[languages.pt.params]
+author = "Celson Simon Araujo Vieira"
+description = "Site pessoal do Celson"
+keywords = "blog,desenvolvedor,pessoal"
+info = ["Engenheiro de Plataforma na Stone Co."]
 paginate = 20
 pygmentsStyle = "bw"
 pygmentsCodeFences = true
@@ -103,10 +128,12 @@ icon = "fa fa-2x fa-medium"
 weight = 5
 url = "https://medium.com/@celson"
 
-[languages.en]
-languageName = ":us:"
-
 [[languages.en.menu.main]]
 name = "About"
+weight = 1
+url = "about/"
+
+[[languages.pt.menu.main]]
+name = "Sobre"
 weight = 1
 url = "about/"

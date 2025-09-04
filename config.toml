@@ -7,7 +7,7 @@ defaultContentLanguage = "en"
 [languages]
 [languages.en]
 languageCode = "en-us"
-languageName = "English"
+languageName = "🇬🇧"
 title = "celson"
 weight = 1
 
@@ -19,7 +19,7 @@ info = ["Platform Engineer at Stone Co."]
 
 [languages.pt]
 languageCode = "pt-br"
-languageName = "Português"
+languageName = "🇧🇷"
 title = "celson"
 weight = 2
 

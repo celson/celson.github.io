@@ -56,6 +56,18 @@ jobs:
           hugo \
             --minify \
             --baseURL "${{ steps.pages.outputs.base_url }}/"
+            
+      - name: Install npm dependencies
+        run: |
+          npm install --no-audit --no-fund
+            
+      - name: PurgeCSS
+        run: |
+          npx postcss public/css/*.css --replace
+            
+      - name: Copy Headers
+        run: |
+          cp _headers public/
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v4
         with:

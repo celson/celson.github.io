@@ -137,3 +137,9 @@ url = "about/"
 name = "Sobre"
 weight = 1
 url = "about/"
+
+[minify]
+disableCSS = false
+disableHTML = false
+disableJS = false
+minifyOutput = true
